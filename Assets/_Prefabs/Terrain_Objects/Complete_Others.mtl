@@ -1,0 +1,30 @@
+newmtl SimpleNaturePack_Texture_01
+map_Kd NaturePackLite_Texture_01.png
+Kd 1 1 1
+d 1
+
+newmtl 14_BROWN_LIGHTEST-LPUP
+Kd 0.8627451 0.7490196 0.6039216
+d 1
+
+newmtl 11_BROWN-MEDIUM-LPUP
+Kd 0.5333333 0.3568627 0.2235293
+d 1
+
+newmtl 9_BROWN-DARKEST-LPUP
+Kd 0.3019607 0.2313725 0.1686274
+d 1
+
+newmtl 17_GREY-DARKEST-LPUP
+Kd 0.1607842 0.1607842 0.1607842
+d 1
+
+newmtl 13_BROWN-LIGHT-LPUP
+Kd 0.8039216 0.6078432 0.3764705
+d 1
+
+newmtl Natures
+map_Kd Natures.png
+Kd 1 1 1
+d 1
+
