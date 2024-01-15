@@ -1,0 +1,10 @@
+newmtl LowPolyCity_MAIN
+map_Kd Texture_01.png
+Kd 1 1 1
+d 1
+
+newmtl SimpleNaturePack_Texture_01
+map_Kd NaturePackLite_Texture_01.png
+Kd 1 1 1
+d 1
+
