@@ -1,0 +1,41 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.SceneManagement;
+
+public class LevelSelectionLevelMenuManager : MonoBehaviour
+{
+    public LevelObject[] levelObjects;
+    public static int UnlockedLevels;
+    public Sprite goldenStarSprite;
+    public static int currLevel;
+
+    public void OnClickLevel(int levelNum)
+    {
+        currLevel = levelNum;
+    }
+
+    // Start is called before the first frame update
+    void Start()
+    {
+        UnlockedLevels = PlayerPrefs.GetInt("UnlockedLevels", 0);
+        for (int i = 0; i < levelObjects.Length; i++)
+        {
+            if (UnlockedLevels >= i)
+            {
+                levelObjects[i].levelButton.interactable = true;
+                int stars = PlayerPrefs.GetInt("stars" + i.ToString(), 0);
+                for (int j = 0; j < stars; j++)
+                {
+                    levelObjects[i].stars[j].sprite = goldenStarSprite;
+                }
+            }
+        }
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        
+    }
+}
