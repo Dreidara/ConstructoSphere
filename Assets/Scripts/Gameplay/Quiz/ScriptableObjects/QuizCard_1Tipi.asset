@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 626e82cde356e2244924e38b13498b91, type: 3}
+  m_Name: QuizCard_1Tipi
+  m_EditorClassIdentifier: 
+  quizItems:
+  - questions: "What adjustable openings located at the top of the tipi cover regulate
+      airflow and ventilation within the tipi?\r"
+    AnswerA: Tipi Smoke Flaps
+    AnswerB: Tipi Door
+    AnswerC: Tipi Liner
+    AnswerD: Tipi Lacing Pins
+    CorrectChoice: A
+    Explanation: 
+  - questions: What fabric lining hangs vertically along the interior walls of the
+      tipi, providing insulation, moisture control, and aesthetic enhancement?
+    AnswerA: Tipi Liner
+    AnswerB: Tipi Cover
+    AnswerC: Tipi Poles
+    AnswerD: Tipi Door
+    CorrectChoice: A
+    Explanation: 

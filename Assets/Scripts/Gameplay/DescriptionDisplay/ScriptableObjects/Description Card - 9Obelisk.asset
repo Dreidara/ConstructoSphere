@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4249c050191840e40a8ec7fc71d46648, type: 3}
+  m_Name: Description Card - 9Obelisk
+  m_EditorClassIdentifier: 
+  DescriptionItems:
+  - DisplayTitle: 'Base:'
+    DisplaySprite: {fileID: 21300000, guid: 813e1e33d0315d04a9fe55d24fe5dd71, type: 3}
+    DisplayDescriptions: 'Base: The base of an obelisk provides stability and support
+      to the structure, anchoring it firmly to the ground. Additionally, it often
+      contains inscriptions or dedications, conveying historical or religious significance
+      to viewers. '
+  - DisplayTitle: 'Shaft:'
+    DisplaySprite: {fileID: 21300000, guid: ddd4a260f0d8dbb4abd9efb8ccdd7ac2, type: 3}
+    DisplayDescriptions: 'Shaft: Rising vertically from the base, the shaft of an
+      obelisk represents the central core of the monument. It serves as a prominent
+      canvas for intricate hieroglyphs and inscriptions, which convey messages of
+      honor, power, and divine reverence. '
+  - DisplayTitle: 'Pyramidion (Capstone):'
+    DisplaySprite: {fileID: 21300000, guid: 839e2f17312d60e459a0b0a999581407, type: 3}
+    DisplayDescriptions: 'Pyramidion (Capstone): Atop the shaft sits the pyramidion,
+      or capstone, completing the obelisk''s iconic silhouette. Serving both a structural
+      and symbolic role, the pyramidion signifies the apex of the monument''s divine
+      connection, often believed to channel cosmic energies or divine blessings. '
+  - DisplayTitle: 'Hieroglyphs and Inscriptions:'
+    DisplaySprite: {fileID: 21300000, guid: c7e27267ef4ae6a4d9c13a2592eb2657, type: 3}
+    DisplayDescriptions: 'Hieroglyphs and Inscriptions: Covering the surface of the
+      obelisk''s shaft, hieroglyphs and inscriptions communicate narratives of pharaohs,
+      gods, and historical events. They serve as a lasting record of ancient Egyptian
+      culture, beliefs, and achievements, ensuring the legacy of the obelisk for
+      generations to come.'

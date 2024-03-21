@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 626e82cde356e2244924e38b13498b91, type: 3}
+  m_Name: QuizCard_8Mastaba
+  m_EditorClassIdentifier: 
+  quizItems:
+  - questions: What serves as the sturdy base upon which the mastaba stands, providing
+      essential stability and support for the structure?
+    AnswerA: Base
+    AnswerB: Entrance
+    AnswerC: Foundation
+    AnswerD: Burial Chamber
+    CorrectChoice: C
+    Explanation: 
+  - questions: What part of the mastaba contains the sarcophagus or burial pit, housing
+      the mortal remains and accompanying funerary items?
+    AnswerA: Entrance
+    AnswerB: Base
+    AnswerC: Foundation
+    AnswerD: Burial Chamber
+    CorrectChoice: D
+    Explanation: 

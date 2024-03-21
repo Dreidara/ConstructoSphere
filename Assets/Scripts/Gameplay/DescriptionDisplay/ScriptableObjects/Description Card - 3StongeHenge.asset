@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4249c050191840e40a8ec7fc71d46648, type: 3}
+  m_Name: Description Card - 3StongeHenge
+  m_EditorClassIdentifier: 
+  DescriptionItems:
+  - DisplayTitle: Trilithon
+    DisplaySprite: {fileID: 21300000, guid: 686852a8d04dab44ebd2ed39ccf5950c, type: 3}
+    CameraPosition: {x: 7.5, y: 1.23, z: 5.32}
+    CameraRotation: {x: -2.205, y: -53.871, z: -1.913}
+    DisplayDescriptions: The trilithons, composed of two upright sarsen stones capped
+      by a horizontal lintel stone, stand as iconic structures within Stonehenge.
+      These formations served both structural and ceremonial purposes, forming part
+      of the inner horseshoe arrangement and likely aligning with specific celestial
+      events, contributing to the monument's astronomical significance.
+  - DisplayTitle: Outer Circle
+    DisplaySprite: {fileID: 21300000, guid: 568c6dfe0e0d00e41b5fd882e4d9c7da, type: 3}
+    CameraPosition: {x: -6.5, y: 1.937, z: 5.5}
+    CameraRotation: {x: 10.646, y: 51.009, z: -1.75}
+    DisplayDescriptions: 'Encircling the inner sanctum of Stonehenge, the outer circle
+      comprises a ring of large standing sarsen stones, demarcating the sacred space
+      of the monument. This outer boundary facilitated ceremonial or ritual activities,
+      providing an enclosure for gatherings, ceremonies, or rituals associated with
+      celestial observations or religious practices. '
+  - DisplayTitle: Inner Circle
+    DisplaySprite: {fileID: 21300000, guid: bcdff1afcb0fd7f4792a3c874fd65b25, type: 3}
+    CameraPosition: {x: 1, y: 5.260159, z: 2.266011}
+    CameraRotation: {x: 30.288, y: -1.615, z: 0}
+    DisplayDescriptions: 'Nestled within the outer circle, the inner circle comprises
+      smaller bluestones positioned closer to the monument''s center. These stones
+      held special significance in the religious and ceremonial activities conducted
+      at Stonehenge, likely aligning with astronomical phenomena or serving as markers
+      for specific rituals or ceremonies. '
+  - DisplayTitle: Altar Stone
+    DisplaySprite: {fileID: 21300000, guid: 2c74516cab6d38d4eb057338bc15b287, type: 3}
+    CameraPosition: {x: 1, y: 2, z: 12}
+    CameraRotation: {x: 50, y: 121, z: 0}
+    DisplayDescriptions: Situated within the inner circle, the altar stone served
+      as a focal point for rituals or ceremonies at Stonehenge. Likely used as an
+      altar or ceremonial platform, it played a central role in religious activities,
+      symbolizing the spiritual significance of the monument and its connection to
+      ancient beliefs and practices.

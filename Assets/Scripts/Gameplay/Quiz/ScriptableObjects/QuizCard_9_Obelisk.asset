@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 626e82cde356e2244924e38b13498b91, type: 3}
+  m_Name: QuizCard_9_Obelisk
+  m_EditorClassIdentifier: 
+  quizItems:
+  - questions: What part of an obelisk rises vertically from the base and represents
+      the central core of the monument?
+    AnswerA: Base
+    AnswerB: Shaft
+    AnswerC: Pyramidion (Capstone)
+    AnswerD: Hieroglyphs and Inscriptions
+    CorrectChoice: B
+    Explanation: 
+  - questions: "What architectural element completes the obelisk's iconic silhouette
+      and signifies the apex of its divine \r\nconnection?"
+    AnswerA: Base
+    AnswerB: Pyramidion (Capstone)
+    AnswerC: Hieroglyphs and Inscriptions
+    AnswerD: Shaft
+    CorrectChoice: B
+    Explanation: 

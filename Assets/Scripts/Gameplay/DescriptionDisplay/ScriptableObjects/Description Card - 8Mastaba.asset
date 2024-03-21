@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4249c050191840e40a8ec7fc71d46648, type: 3}
+  m_Name: Description Card - 8Mastaba
+  m_EditorClassIdentifier: 
+  DescriptionItems:
+  - DisplayTitle: 'Hieroglyphic Drawings:'
+    DisplaySprite: {fileID: 21300000, guid: ace4e49d34eef3a4ca78f825f24528f6, type: 3}
+    CameraPosition: {x: 0, y: 0, z: 0}
+    CameraRotation: {x: 0, y: 0, z: 0}
+    DisplayDescriptions: Decorating the walls and surfaces of the mastaba, hieroglyphic
+      drawings serve a dual purpose. They convey intricate messages about the deceased's
+      life, achievements, and religious beliefs. Additionally, these depictions often
+      include prayers and spells to ensure a successful journey to the afterlife.
+  - DisplayTitle: 'Entrance:'
+    DisplaySprite: {fileID: 21300000, guid: 39cf806c7672b814babfdbb5f102275a, type: 3}
+    CameraPosition: {x: 0, y: 0, z: 0}
+    CameraRotation: {x: 0, y: 0, z: 0}
+    DisplayDescriptions: " The entrance to the mastaba provides access to the burial
+      chamber and serves as a symbolic gateway between the realms of the living and
+      the dead. Elaborately decorated with religious symbols or protective deities,
+      the entrance is a focal point for rituals and ceremonies honoring the deceased.\r"
+  - DisplayTitle: 'Deceased Statue (Stela):'
+    DisplaySprite: {fileID: 21300000, guid: a261d39c424ef9e46a8318b202bfe6f6, type: 3}
+    CameraPosition: {x: 0, y: 0, z: 0}
+    CameraRotation: {x: 0, y: 0, z: 0}
+    DisplayDescriptions: " Within the mastaba, a statue or stela representing the
+      deceased is often placed. This memorializes the individual, depicting them
+      in a seated or standing position, and is accompanied by inscriptions highlighting
+      their accomplishments, titles, and personal details. The statue acts as a focal
+      point for offerings and remembrance.\r\nBurial Chamber: Located beneath the
+      surface, the burial chamber is the final resting place for the deceased. Accessible
+      through the entrance, this chamber contains the sarcophagus or burial pit,
+      housing the mortal remains and accompanying funerary items. The burial chamber
+      is often adorned with symbolic decorations and\rreligious motifs, emphasizing
+      the spiritual transition to the afterlife.\r"

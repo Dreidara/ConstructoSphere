@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4249c050191840e40a8ec7fc71d46648, type: 3}
+  m_Name: Description Card - 4IshtarGate
+  m_EditorClassIdentifier: 
+  DescriptionItems:
+  - DisplayTitle: 'Main Gate Structure:'
+    DisplaySprite: {fileID: 21300000, guid: 9c1b41fbee5e3da45b63377e692e136a, type: 3}
+    CameraPosition: {x: -0.2222, y: 3.502289, z: 19.44905}
+    CameraRotation: {x: -5.809, y: -179.071, z: 0}
+    DisplayDescriptions: The Ishtar Gate was a monumental entryway consisting of
+      a large central arch flanked by two smaller arches on either side. This main
+      gate structure served as the primary entrance to the city of Babylon and was
+      adorned with vibrant glazed bricks and elaborate decorations.
+  - DisplayTitle: 'Decorative Facade:'
+    DisplaySprite: {fileID: 21300000, guid: 9ac1c4e2eee59a0489ce6ca7ff70bc9b, type: 3}
+    CameraPosition: {x: 1.8, y: 5.012961, z: 14.41405}
+    CameraRotation: {x: 1.411, y: 179.21, z: 0}
+    DisplayDescriptions: The facade of the Ishtar Gate was adorned with ornate decorations
+      made from glazed bricks. These decorations featured intricate reliefs depicting
+      mythical creatures such as dragons, bulls, and lions, as well as floral and
+      geometric patterns. The vibrant colors and intricate designs of the facade
+      were intended to impress and awe visitors to the city.
+  - DisplayTitle: 'Guardian Figures: '
+    DisplaySprite: {fileID: 21300000, guid: 17a2d0ce53620d340b8ef3eba7affa4f, type: 3}
+    CameraPosition: {x: 3.5, y: 5.012961, z: 14.41405}
+    CameraRotation: {x: 1.411, y: 179.21, z: 0}
+    DisplayDescriptions: Flanking the entrance to the Ishtar Gate were pairs of majestic
+      guardian figures, such as winged bulls (lamassu) or lions, sculpted from stone
+      or molded from glazed bricks. These guardian figures were believed to protect
+      the city and its inhabitants from evil spirits and invaders

@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8181842750775427003
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6190842515916173850}
+  - component: {fileID: 1243958591183628043}
+  m_Layer: 0
+  m_Name: Manager _ GameDataManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 5132851093641282708, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6190842515916173850
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8181842750775427003}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 6, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1243958591183628043
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8181842750775427003}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8161ff2ed1b8c94792187bebeae6c90, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isBackToHome: 0
+  currentLevelId: 9
+  dataObjects:
+  - name: Tipi
+    TargetObjectPrefab: {fileID: 6181069538482275445, guid: e8361bfba9670b1439f3b811acf53d95,
+      type: 3}
+    DragObjectPrefab: {fileID: 316085800231302013, guid: 657baf14f6c10f54ea0c4118d07e9016,
+      type: 3}
+  - name: Trullo
+    TargetObjectPrefab: {fileID: 7664105557428716695, guid: 4128a1c63bec51b449ed77e6dcc1c86f,
+      type: 3}
+    DragObjectPrefab: {fileID: 6879775361214166169, guid: fd40e05f021f0f842b495450799fff8c,
+      type: 3}
+  - name: Stonehenge
+    TargetObjectPrefab: {fileID: 5229018851587813681, guid: 9c087ed4568fccb46b5c3e5de9dc5ad0,
+      type: 3}
+    DragObjectPrefab: {fileID: 5897152015080570763, guid: f3a219549c35cba47a5732a344f45d12,
+      type: 3}
+  - name: Ishtar Gate
+    TargetObjectPrefab: {fileID: 6212250693741698036, guid: eaff956afa7443e45a17b78e09e7698d,
+      type: 3}
+    DragObjectPrefab: {fileID: 4776970082292570484, guid: b0325c59583b38445b7fef4b6c7ed238,
+      type: 3}
+  - name: Tower of Babel
+    TargetObjectPrefab: {fileID: 8977472646911922768, guid: f1309ee5c26878b47a341cd254164d26,
+      type: 3}
+    DragObjectPrefab: {fileID: 2953053988033348064, guid: 4d48561145148264a878bbff84674fb6,
+      type: 3}
+  - name: Obelisk
+    TargetObjectPrefab: {fileID: 6768383276872633414, guid: a772411239c98c94c9bc64286ea68110,
+      type: 3}
+    DragObjectPrefab: {fileID: 3663292094760948007, guid: 261a1ae015625bb42844cdf064b2c449,
+      type: 3}
+  - name: Matsaba
+    TargetObjectPrefab: {fileID: 1476189414843165330, guid: 6d90c0a2052972e458afbf2dacf13c24,
+      type: 3}
+    DragObjectPrefab: {fileID: 343543115683014948, guid: f995399f7769a834d8ebdcb8566ebc8f,
+      type: 3}
+  - name: Palace of Knossos
+    TargetObjectPrefab: {fileID: 6168387533151217259, guid: 9727620058d7c9a47ad151bfa7343dc1,
+      type: 3}
+    DragObjectPrefab: {fileID: 7703563947492703920, guid: 9266316af2883ad43890ef0dfab9eaf2,
+      type: 3}
+  - name: Hanging Gardens of Babylon
+    TargetObjectPrefab: {fileID: 8164989303777379481, guid: f9462bf6a433c57468c35a538502fdf1,
+      type: 3}
+    DragObjectPrefab: {fileID: 1336467818656513531, guid: 3279fd8b06b4bc64890ac304ab839ad3,
+      type: 3}
+  - name: Pyramid of Giza
+    TargetObjectPrefab: {fileID: 1476189414843165330, guid: 6d90c0a2052972e458afbf2dacf13c24,
+      type: 3}
+    DragObjectPrefab: {fileID: 343543115683014948, guid: f995399f7769a834d8ebdcb8566ebc8f,
+      type: 3}

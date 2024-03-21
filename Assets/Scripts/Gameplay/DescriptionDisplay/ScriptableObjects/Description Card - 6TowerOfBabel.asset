@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4249c050191840e40a8ec7fc71d46648, type: 3}
+  m_Name: Description Card - 6TowerOfBabel
+  m_EditorClassIdentifier: 
+  DescriptionItems:
+  - DisplayTitle: 'Foundation:'
+    DisplaySprite: {fileID: 21300000, guid: 5ddddcd6fdb2f7b42a00d9b125a55bd3, type: 3}
+    CameraPosition: {x: 0, y: 0, z: 0}
+    CameraRotation: {x: 0, y: 0, z: 0}
+    DisplayDescriptions: "The foundation serves as the sturdy base upon which the
+      tower stands, providing essential stability and support for the structure.
+      Its purpose is to anchor the tower firmly to the ground, ensuring its durability
+      and resilience against external forces.\r"
+  - DisplayTitle: 'Base Structure:'
+    DisplaySprite: {fileID: 21300000, guid: e92590c1f08b1a244a21a72817d3366c, type: 3}
+    CameraPosition: {x: 0, y: 0, z: 0}
+    CameraRotation: {x: 0, y: 0, z: 0}
+    DisplayDescriptions: The base structure forms the main body of the tower, gradually
+      tapering as it ascends towards the heavens. Its purpose is to provide the framework
+      and structural integrity necessary for the tower's construction, guiding its
+      upward trajectory and defining its overall shape and form.
+  - DisplayTitle: 'Stairs or Ramp:'
+    DisplaySprite: {fileID: 21300000, guid: 535e86c5dc6e1af449d13508d24a6658, type: 3}
+    CameraPosition: {x: 0, y: 0, z: 0}
+    CameraRotation: {x: 0, y: 0, z: 0}
+    DisplayDescriptions: The stairs or ramp provide access to the upper levels of
+      the tower, facilitating movement and ascent for the tower's occupants. Their
+      purpose is to enable people to navigate and explore the various levels of the
+      tower, accessing its heights for observation, worship, or other activities.
+  - DisplayTitle: 'Top Platform:'
+    DisplaySprite: {fileID: 21300000, guid: 9de3a2ca9c3d63047b6e1f281d354f66, type: 3}
+    CameraPosition: {x: 0, y: 0, z: 0}
+    CameraRotation: {x: 0, y: 0, z: 0}
+    DisplayDescriptions: The top platform serves as a spacious chamber or area at
+      the summit of the tower. Its purpose may vary, serving as a vantage point for
+      observation, a space for religious rituals or ceremonies, or a gathering place
+      for the tower's inhabitants. It offers panoramic views of the surrounding landscape
+      and may hold symbolic significance in the cultural or religious context of
+      the tower.

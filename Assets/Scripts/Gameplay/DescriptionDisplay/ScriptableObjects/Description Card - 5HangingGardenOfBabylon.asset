@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4249c050191840e40a8ec7fc71d46648, type: 3}
+  m_Name: Description Card - 5HangingGardenOfBabylon
+  m_EditorClassIdentifier: 
+  DescriptionItems:
+  - DisplayTitle: 'Terraced Platforms:'
+    DisplaySprite: {fileID: 21300000, guid: 8887fa4579338124da00c2cc0df985d0, type: 3}
+    CameraPosition: {x: 0, y: 0, z: 0}
+    CameraRotation: {x: 0, y: 0, z: 0}
+    DisplayDescriptions: The gardens were constructed on a series of terraced platforms
+      or tiers, rising in ascending order to create a multi-level garden complex.
+      These terraces provided the structural foundation for the gardens and allowed
+      for the cultivation of a diverse range of plants and trees.
+  - DisplayTitle: 'Irrigation System: '
+    DisplaySprite: {fileID: 21300000, guid: 79ceeba4edc55eb40867960e69c1f9fd, type: 3}
+    CameraPosition: {x: 0, y: 0, z: 0}
+    CameraRotation: {x: 0, y: 0, z: 0}
+    DisplayDescriptions: To sustain the lush vegetation of the gardens, a sophisticated
+      irrigation system was likely employed. This system utilized aqueducts, channels,
+      and waterwheels to transport water from the nearby Euphrates River to the elevated
+      gardens, ensuring adequate moisture for plant growth.
+  - DisplayTitle: 'Exotic Flora:'
+    DisplaySprite: {fileID: 21300000, guid: b85a970b660db3a499f9d3c46d155c28, type: 3}
+    CameraPosition: {x: 0, y: 0, z: 0}
+    CameraRotation: {x: 0, y: 0, z: 0}
+    DisplayDescriptions: 'The gardens were adorned with a rich variety of trees,
+      plants, and flowers, including exotic species imported from distant lands.
+      These botanical treasures added to the gardens'' allure, creating a vibrant
+      tapestry of colors, scents, and textures.
+
+      Architectural Features: The
+      Hanging Gardens may have featured architectural elements such as columns, pavilions,
+      and walkways, providing structure and elegance to the garden design. These
+      features enhanced the aesthetic appeal of the gardens and offered opportunities
+      for leisurely strolls and contemplation.'
+  - DisplayTitle: 'Water Features:'
+    DisplaySprite: {fileID: 21300000, guid: dd65599b2fd5e424491b5233bbdd21e6, type: 3}
+    CameraPosition: {x: 0, y: 0, z: 0}
+    CameraRotation: {x: 0, y: 0, z: 0}
+    DisplayDescriptions: Water played a central role in the design of the gardens,
+      with cascading waterfalls, fountains, and pools adding to their beauty and
+      tranquility. These water features provided a soothing ambiance and helped to
+      cool the air during the hot Mesopotamian summers.

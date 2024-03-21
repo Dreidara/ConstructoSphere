@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4249c050191840e40a8ec7fc71d46648, type: 3}
+  m_Name: Description Card - 1Tipi
+  m_EditorClassIdentifier: 
+  DescriptionItems:
+  - DisplayTitle: 'Tipi Smoke Flaps:'
+    DisplaySprite: {fileID: 21300000, guid: 3f53587b56c5ec14e887c68f1cf92d9d, type: 3}
+    CameraPosition: {x: 0, y: 5.3, z: 5.3}
+    CameraRotation: {x: 0, y: 0, z: 0}
+    DisplayDescriptions: The tipi smoke flaps are adjustable openings located at
+      the top of the tipi cover, near the peak. They serve the essential purpose
+      of regulating airflow and ventilation within the tipi while also allowing smoke
+      from the central firepit to escape. By adjusting the position of the smoke
+      flaps, occupants can control the airflow to maintain a comfortable indoor environment
+      and prevent smoke buildup.
+  - DisplayTitle: 'Tipi Poles:'
+    DisplaySprite: {fileID: 21300000, guid: 11156f6a8cdcf484a8380d27fde5d9ba, type: 3}
+    CameraPosition: {x: 0.08, y: 6.6731, z: 8.051033}
+    CameraRotation: {x: 25.131, y: 3.885, z: 0}
+    DisplayDescriptions: Tipi poles are long, slender wooden poles used to support
+      the structure and shape of the tipi. They are typically made from sturdy, lightweight
+      wood such as cedar or pine and are arranged in a circular formation around
+      the perimeter of the tipi cover. The poles provide structural stability and
+      strength to the tipi, while also allowing for easy assembly and disassembly
+      when moving or transporting the structure.
+  - DisplayTitle: 'Tipi Liner:'
+    DisplaySprite: {fileID: 21300000, guid: 965675cb850ea7c4f82a06fdc4bb6b80, type: 3}
+    CameraPosition: {x: -2.5, y: 2.47, z: 9.3}
+    CameraRotation: {x: 29.256, y: 85.532, z: 0}
+    DisplayDescriptions: The tipi liner is a fabric lining that hangs vertically
+      along the interior walls of the tipi, extending from the ground to the top.
+      It serves multiple purposes, including insulation, moisture control, and aesthetic
+      enhancement. The liner helps to trap heat inside the tipi during cold weather,
+      while also preventing condensation and moisture buildup. Additionally, the
+      liner can be decorated with traditional designs or patterns, adding to the
+      visual appeal of the tipi's interior.
+  - DisplayTitle: 'Tipi Lacing Pins:'
+    DisplaySprite: {fileID: 21300000, guid: aebf7cc945264f3479904e30bdff33d8, type: 3}
+    CameraPosition: {x: 0.05, y: 1.89104, z: 8.1486}
+    CameraRotation: {x: 50, y: 0.963, z: 0}
+    DisplayDescriptions: Tipi lacing pins are wooden or metal stakes used to secure
+      the tipi cover to the ground and hold it in place. They are inserted through
+      loops or tabs along the bottom edge of the tipi cover and driven into the ground
+      to anchor the structure. Lacing pins provide stability and security, preventing
+      the tipi cover from shifting or blowing away in strong winds or inclement weather.
+  - DisplayTitle: 'Tipi Door:'
+    DisplaySprite: {fileID: 21300000, guid: e3bd0f063dcabfc478bd9e7c8c3e3811, type: 3}
+    CameraPosition: {x: 1.252654, y: 2.451737, z: 6.672646}
+    CameraRotation: {x: 15.161, y: 7.151, z: 0}
+    DisplayDescriptions: The tipi door is a flap or opening located at the front
+      of the tipi, providing access to the interior. It can be rolled up or tied
+      open during the day for ventilation and ease of entry, and secured closed at
+      night for privacy and protection from the elements. The door also serves as
+      a symbolic entry point, welcoming visitors into the tipi and maintaining a
+      connection with the surrounding Tipi Cover:.
+  - DisplayTitle: Tipi Cover
+    DisplaySprite: {fileID: 21300000, guid: 4a13179a7927dd14d83f23e109f1aa1a, type: 3}
+    CameraPosition: {x: -1, y: 4.795014, z: 9.3}
+    CameraRotation: {x: 19.974, y: 75.562, z: 0}
+    DisplayDescriptions: The tipi cover is a large, cone-shaped fabric covering that
+      forms the outer shell of the tipi. It is typically made from durable, weather-resistant
+      materials such as canvas or buffalo hide and is stretched over the tipi poles
+      to create a snug, waterproof shelter. The tipi cover provides protection from
+      rain, wind, and sun, while also allowing for natural light and ventilation
+      through the smoke flaps and door.

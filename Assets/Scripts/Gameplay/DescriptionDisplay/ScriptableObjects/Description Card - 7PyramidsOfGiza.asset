@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4249c050191840e40a8ec7fc71d46648, type: 3}
+  m_Name: Description Card - 7PyramidsOfGiza
+  m_EditorClassIdentifier: 
+  DescriptionItems:
+  - DisplayTitle: 'Subterranean Chamber:'
+    DisplaySprite: {fileID: 21300000, guid: cec2f8a130cf0084db0203d101e03b91, type: 3}
+    CameraPosition: {x: 0, y: 0, z: 0}
+    CameraRotation: {x: 0, y: 0, z: 0}
+    DisplayDescriptions: The subterranean chamber, accessed via a descending passageway
+      from the northern side, is a large underground cavity. Its exact purpose remains
+      uncertain, but it may have served as a burial chamber or part of the pyramid's
+      construction process, possibly functioning as a foundation or offering space.
+  - DisplayTitle: 'Stone Casing Limestone:'
+    DisplaySprite: {fileID: 21300000, guid: a6e24d29e9015ab43b6ea2a7dcf93d1c, type: 3}
+    CameraPosition: {x: 0, y: 0, z: 0}
+    CameraRotation: {x: 0, y: 0, z: 0}
+    DisplayDescriptions: The finely cut limestone blocks formed the outer layer of
+      the pyramid, originally polished to a smooth, reflective surface. These casing
+      stones protected the inner core and provided a uniform surface, enhancing the
+      pyramid's appearance and possibly symbolizing the pharaoh's connection to the
+      sun god Ra.
+  - DisplayTitle: 'Relieving Chamber:'
+    DisplaySprite: {fileID: 21300000, guid: 46876801b1f588040854dadd6e1eba25, type: 3}
+    CameraPosition: {x: 0, y: 0, z: 0}
+    CameraRotation: {x: 0, y: 0, z: 0}
+    DisplayDescriptions: Small chambers located above the King's Chamber, the relieving
+      chambers were positioned to relieve pressure on the chamber's ceiling. They
+      distributed the weight of the overlying masonry, preventing collapse and ensuring
+      the stability of the pyramid's inner structure.
+  - DisplayTitle: 'Queen''s Chamber:'
+    DisplaySprite: {fileID: 21300000, guid: e548084f946b1e8429cb6140adbbe067, type: 3}
+    CameraPosition: {x: 0, y: 0, z: 0}
+    CameraRotation: {x: 0, y: 0, z: 0}
+    DisplayDescriptions: Situated within the pyramid's structure, the Queen's Chamber
+      served a ceremonial or symbolic purpose. Its exact function remains uncertain,
+      but it may have been intended for ritual activities, storage, or as a secondary
+      burial chamber.
+  - DisplayTitle: 'King''s Chamber:'
+    DisplaySprite: {fileID: 21300000, guid: d4ebc8e2a1930b647b6b069640efcc86, type: 3}
+    CameraPosition: {x: 0, y: 0, z: 0}
+    CameraRotation: {x: 0, y: 0, z: 0}
+    DisplayDescriptions: Near the top of the Great Pyramid, the King's Chamber served
+      as the primary burial chamber for Pharaoh Khufu. Its grandeur and significance
+      reflect the pharaoh's divine status and eternal journey into the afterlife.
+  - DisplayTitle: 'Inner Chamber:'
+    DisplaySprite: {fileID: 21300000, guid: 89d4ea8ff5d8605488bbdac1fa089459, type: 3}
+    CameraPosition: {x: 0, y: 0, z: 0}
+    CameraRotation: {x: 0, y: 0, z: 0}
+    DisplayDescriptions: Collectively comprising the King's Chamber, Queen's Chamber,
+      and associated passageways, the inner chamber complex housed the main funerary
+      and ceremonial spaces within the pyramid. These chambers played a central role
+      in the pharaoh's burial rites and spiritual journey.
+  - DisplayTitle: 'Grand Gallery:'
+    DisplaySprite: {fileID: 21300000, guid: df4112b6738157140ab748763908abe8, type: 3}
+    CameraPosition: {x: 0, y: 0, z: 0}
+    CameraRotation: {x: 0, y: 0, z: 0}
+    DisplayDescriptions: The Grand Gallery, featuring a steeply inclined corbelled
+      ceiling, served as a ceremonial passageway leading to the King's Chamber. Its
+      architectural grandeur and symbolic ascent may have facilitated ritual processions
+      and spiritual transitions during the pharaoh's burial ceremonies.
